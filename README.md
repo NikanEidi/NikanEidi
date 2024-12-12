@@ -45,7 +45,7 @@ Aspiring software developer with a strong foundation in programming and a passio
 
 ## 📊 GitHub Overview
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=NikanEidi&theme=tokyonight&show_icons=true&hide_border=false&include_all_commits=true" alt="GitHub Stats" height="180">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NikanEidi&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="180">
 </div>

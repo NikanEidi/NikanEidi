@@ -5,7 +5,7 @@ Aspiring software developer with a strong foundation in programming and a passio
 
 ## 🌐 Social Media & Connections
 
-<div align="center">
+<div align="left">
   <!-- LinkedIn -->
   
   <!-- Instagram -->

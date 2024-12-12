@@ -3,6 +3,22 @@
 ## 👨‍💻 About Me
 Aspiring software developer with a strong foundation in programming and a passion for creating innovative technological solutions. Currently expanding my skills and seeking opportunities to grow in the software development field.
 
+## 🌐 Social Media & Connections
+
+<div align="center">
+  <!-- LinkedIn -->
+  
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/nikankuroko" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  
+  <!-- Email -->
+  <a href="mailto:nikaneydi1984@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
+
 ## 💻 Technical Skills
 
 ### Languages
@@ -34,27 +50,7 @@ Aspiring software developer with a strong foundation in programming and a passio
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NikanEidi&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="180">
 </div>
 
-## 🌐 Social Media & Connections
 
-<div align="center">
-  <!-- LinkedIn -->
-  
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/nikankuroko" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  
-  <!-- Email -->
-  <a href="mailto:nikaneydi1984@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</div>
-
-## 🐍 Contribution Ecosystem
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/NikanEidi/NikanEidi/output/snake.svg" alt="Snake animation" />
 
 ## 📈 Contribution Graph
 

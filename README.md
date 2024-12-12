@@ -52,7 +52,9 @@ Aspiring software developer with a strong foundation in programming and a passio
 
 ## 🐍 Contribution Ecosystem
 
-![GitHub Snake Animation](https://raw.githubusercontent.com/NikanEidi/NikanEidi/output/github-contribution-grid-snake-dark.svg)
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/NikanEidi/NikanEidi/output/snake.svg" alt="Snake animation" />
 
 ## 📈 Contribution Graph
 
@@ -61,3 +63,4 @@ Aspiring software developer with a strong foundation in programming and a passio
 ---
 
 Passionate about technology and continuous learning 🌱
+

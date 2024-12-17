@@ -17,7 +17,15 @@ Aspiring software developer with a strong foundation in programming and a passio
   <a href="mailto:nikaneydi1984@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+
+  <!-- portfolio -->
+<div>
+  <a href="https://nikaneidi.github.io/personal-portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?style=for-the-badge&logo=Firefox&logoColor=white" 
+         alt="Portfolio Badge" />
+  </a>
 </div>
+
 
 ## 💻 Technical Skills
 

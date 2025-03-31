@@ -1,4 +1,4 @@
-# Nikan Eidi | Junior Software Developer | Toronto, Canada 🇨🇦
+# Nikan Eidi | Software Developer | Toronto, Canada 🇨🇦
 
 ## 👨‍💻 About Me
 Aspiring software developer with a strong foundation in programming and a passion for creating innovative technological solutions. Currently expanding my skills and seeking opportunities to grow in the software development field.
@@ -7,10 +7,10 @@ Aspiring software developer with a strong foundation in programming and a passio
 
 <div align="left">
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/nikan-eidi/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Profile"/>
-  </a>
-  
+    <a href="https://www.linkedin.com/in/nikan-eidi/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" 
+         alt="LinkedIn Profile"/>
+</a>
   <!-- Instagram -->
   <a href="https://www.instagram.com/nikankuroko" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
@@ -21,13 +21,13 @@ Aspiring software developer with a strong foundation in programming and a passio
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 
-  <!-- Portfolio -->
+  <!-- portfolio -->
+<div>
   <a href="https://nikanportfolio.onrender.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?style=for-the-badge&logo=Firefox&logoColor=white" alt="Portfolio Badge" />
+    <img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?style=for-the-badge&logo=Firefox&logoColor=white" 
+         alt="Portfolio Badge" />
   </a>
 </div>
-
----
 
 ## 💻 Technical Skills
 
@@ -53,16 +53,11 @@ Aspiring software developer with a strong foundation in programming and a passio
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Paradigm](https://img.shields.io/badge/Visual%20Paradigm-551A8B?style=for-the-badge&logo=visualparadigm&logoColor=white)
-
----
-
 ## 🚀 Current Focus
 - Learning new programming frameworks
 - Developing personal software projects
 - Improving problem-solving skills
 - Exploring full-stack development
-
----
 
 ## 📊 GitHub Overview
 
@@ -71,12 +66,10 @@ Aspiring software developer with a strong foundation in programming and a passio
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NikanEidi&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="180">
 </div>
 
----
-
 ## 📈 Contribution Graph
 
 ![GitHub Contribution Graph](https://github-profile-trophy.vercel.app/?username=NikanEidi&theme=tokyonight&no-frame=true&column=4)
 
 ---
 
-### Passionate about technology and continuous learning 🌱
+Passionate about technology and continuous learning 🌱

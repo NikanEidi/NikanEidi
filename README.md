@@ -18,13 +18,7 @@
 ║                                                                       ║
 ╚═══════════════════════════════════════════════════════════════════════╝
 ```
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/nikan-eidi-03476232b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://nikanportfolio.onrender.com"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" /></a>
-  <a href="mailto:nikaneydi1984@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=NikanEidi&style=for-the-badge&color=00D9FF" />
-</p>
+[![An image of @nikaneidi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nikaneidi)](https://holopin.io/@nikaneidi)
 
 </div>
 

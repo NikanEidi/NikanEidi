@@ -337,7 +337,7 @@ console.log("📧 Let's connect:", developer);
   <a href="mailto:nikaneydi1984@gmail.com">
     <img src="https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://nikavision.dev">
+  <a href="https://nikanvision.dev">
     <img src="https://img.shields.io/badge/Portfolio-View_Work-FF7139?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 </p>

@@ -209,13 +209,19 @@
 
 <br>
 
-<!-- STATS CARDS GRID -->
+<!-- TELEMETRY STACK: ENHANCED STABILITY -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NikanEidi&show_icons=true&theme=midnight-purple&hide_border=true" />
+  <a href="https://github.com/NikanEidi">
+    <img src="https://github-readme-stats.vercel.app/api?username=NikanEidi&show_icons=true&theme=transparent&hide_border=true&v=4.0.1" alt="Core Statistics" />
+  </a>
   <br><br>
-  <img src="https://streak-stats.demolab.com?user=NikanEidi&theme=midnight-purple&hide_border=true" />
+  <a href="https://github.com/NikanEidi">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=NikanEidi&theme=transparent&hide_border=true&v=4.0.1" alt="Commit Momentum" />
+  </a>
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikanEidi&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" />
+  <a href="https://github.com/NikanEidi">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikanEidi&layout=compact&theme=transparent&hide_border=true&langs_count=8&v=4.0.1" alt="Language Distribution" />
+  </a>
 </div>
 
 <br>

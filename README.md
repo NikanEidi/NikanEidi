@@ -889,13 +889,10 @@ Technical Documentation
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/NikanEidi">
-    <img src="https://img.shields.io/badge/Twitter-TECH_INSIGHTS-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0a0e27" height="40" />
-  </a>
   <a href="https://dev.to/nikaneidi">
     <img src="https://img.shields.io/badge/Dev.to-TECHNICAL_BLOG-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=0a0e27" height="40" />
   </a>
-  <a href="https://nikaneidi.com">
+  <a href="https://nikanvison.dev">
     <img src="https://img.shields.io/badge/Portfolio-PROJECTS_&_CASE_STUDIES-C77DFF?style=for-the-badge&logo=firefox&logoColor=white&labelColor=0a0e27" height="40" />
   </a>
 </p>

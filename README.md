@@ -892,7 +892,7 @@ Technical Documentation
   <a href="https://dev.to/nikaneidi">
     <img src="https://img.shields.io/badge/Dev.to-TECHNICAL_BLOG-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=0a0e27" height="40" />
   </a>
-  <a href="https://nikanvison.dev">
+  <a href="https://nikanvision.dev">
     <img src="https://img.shields.io/badge/Portfolio-PROJECTS_&_CASE_STUDIES-C77DFF?style=for-the-badge&logo=firefox&logoColor=white&labelColor=0a0e27" height="40" />
   </a>
 </p>

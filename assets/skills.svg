@@ -1,0 +1,109 @@
+<svg width="900" height="440" viewBox="0 0 900 440" xmlns="http://www.w3.org/2000/svg" fill="none">
+  <defs>
+    <linearGradient id="sky2" x1="0" y1="0" x2="0" y2="440" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#06010f"/><stop offset="0.35" stop-color="#0a0220"/><stop offset="0.7" stop-color="#1a0533"/><stop offset="1" stop-color="#06010f"/>
+    </linearGradient>
+    <radialGradient id="radarFill" cx="0.5" cy="0.5" r="0.5">
+      <stop stop-color="#8426FF" stop-opacity="0.5"/><stop offset="0.6" stop-color="#00D8F2" stop-opacity="0.28"/><stop offset="1" stop-color="#00F273" stop-opacity="0.12"/>
+    </radialGradient>
+    <radialGradient id="centerGlow" cx="0.5" cy="0.5" r="0.5">
+      <stop stop-color="#8426FF" stop-opacity="0.3"/><stop offset="1" stop-color="#8426FF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="redEye" cx="0.5" cy="0.5" r="0.5">
+      <stop stop-color="#ff2d2d"/><stop offset="1" stop-color="#ff2d2d" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="g3" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <linearGradient id="sweepFade" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#00F273" stop-opacity="0"/><stop offset="1" stop-color="#00F273" stop-opacity="0.6"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="440" rx="14" fill="url(#sky2)"/>
+
+  <!-- starfield backdrop -->
+  <g fill="#F0F5FC">
+    <circle cx="100" cy="80" r="1.5"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.6s" repeatCount="indefinite"/></circle>
+    <circle cx="480" cy="60" r="1.6"><animate attributeName="opacity" values="1;0.3;1" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="820" cy="90" r="1.8"><animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" repeatCount="indefinite"/></circle>
+    <circle cx="700" cy="380" r="1.5"><animate attributeName="opacity" values="1;0.4;1" dur="2.8s" repeatCount="indefinite"/></circle>
+    <circle cx="150" cy="360" r="1.4"><animate attributeName="opacity" values="0.3;1;0.3" dur="3.2s" repeatCount="indefinite"/></circle>
+  </g>
+  <g fill="#C77DFF">
+    <circle cx="60" cy="180" r="1.3"><animate attributeName="opacity" values="0.4;1;0.4" dur="2.9s" repeatCount="indefinite"/></circle>
+    <circle cx="850" cy="300" r="1.4"><animate attributeName="opacity" values="1;0.3;1" dur="3.4s" repeatCount="indefinite"/></circle>
+    <circle cx="510" cy="400" r="1.2"><animate attributeName="opacity" values="0.5;1;0.5" dur="2.3s" repeatCount="indefinite"/></circle>
+  </g>
+  <g fill="#00D8F2">
+    <circle cx="420" cy="100" r="1"><animate attributeName="opacity" values="0.5;1;0.5" dur="3.1s" repeatCount="indefinite"/></circle>
+    <circle cx="800" cy="200" r="1.1"><animate attributeName="opacity" values="1;0.4;1" dur="2.7s" repeatCount="indefinite"/></circle>
+  </g>
+  <g fill="#F0F5FC" opacity="0.4">
+    <circle cx="200" cy="120" r="0.7"/><circle cx="380" cy="380" r="0.7"/><circle cx="620" cy="80" r="0.7"/><circle cx="760" cy="350" r="0.7"/>
+  </g>
+
+  <text x="32" y="44" font-family="monospace" font-size="16" fill="#7A8AA3">root@nikan:~$ <tspan fill="#00F273">./dragon-scan --skills --radar</tspan></text>
+  <line x1="32" y1="58" x2="868" y2="58" stroke="#8426FF" stroke-opacity="0.25"/>
+
+  <!-- ░ RADAR cx=270 cy=255 R(100%)=112.5 ░ -->
+  <circle cx="270" cy="255" r="130" fill="url(#centerGlow)"/>
+  <g stroke="#8426FF" stroke-opacity="0.18" stroke-width="1">
+    <polygon points="270,142.5 367.4,198.75 367.4,311.25 270,367.5 172.6,311.25 172.6,198.75"/>
+    <polygon points="270,170.6 343.05,212.8 343.05,297.2 270,339.4 196.95,297.2 196.95,212.8"/>
+    <polygon points="270,198.75 318.7,226.9 318.7,283.1 270,311.25 221.3,283.1 221.3,226.9"/>
+    <polygon points="270,226.9 294.35,240.95 294.35,269.05 270,283.1 245.65,269.05 245.65,240.95"/>
+  </g>
+  <g stroke="#00D8F2" stroke-opacity="0.25" stroke-width="1">
+    <line x1="270" y1="255" x2="270" y2="142.5"/><line x1="270" y1="255" x2="367.4" y2="198.75"/><line x1="270" y1="255" x2="367.4" y2="311.25"/>
+    <line x1="270" y1="255" x2="270" y2="367.5"/><line x1="270" y1="255" x2="172.6" y2="311.25"/><line x1="270" y1="255" x2="172.6" y2="198.75"/>
+  </g>
+
+  <!-- data polygon (recomputed for cy=255) -->
+  <!-- top .96:270,147 | TR .89:356.7,204.9 | BR .82:349.9,301.1 | bottom .75:270,339.4 | BL .86:186.2,303.4 | TL 1.0:172.6,198.75 -->
+  <polygon points="270,147 356.7,204.9 349.9,301.1 270,339.4 186.2,303.4 172.6,198.75" fill="url(#radarFill)" stroke="#00F273" stroke-width="2" filter="url(#g3)">
+    <animate attributeName="opacity" values="0;1" dur="1.2s" fill="freeze"/>
+  </polygon>
+
+  <g>
+    <circle cx="270" cy="255" r="14" fill="url(#redEye)"><animate attributeName="opacity" values="0.5;1;0.5" dur="2.5s" repeatCount="indefinite"/></circle>
+    <circle cx="270" cy="147" r="4" fill="#ff2d2d" filter="url(#g3)"><animate attributeName="r" values="3;5.5;3" dur="2s" repeatCount="indefinite"/></circle>
+    <circle cx="356.7" cy="204.9" r="3.5" fill="#00D8F2"/>
+    <circle cx="349.9" cy="301.1" r="3.5" fill="#00D8F2"/>
+    <circle cx="270" cy="339.4" r="3.5" fill="#00D8F2"/>
+    <circle cx="186.2" cy="303.4" r="3.5" fill="#00D8F2"/>
+    <circle cx="172.6" cy="198.75" r="4" fill="#00F273" filter="url(#g3)"><animate attributeName="r" values="3;5.5;3" dur="2s" begin="1s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <g font-family="monospace" font-size="12" fill="#F0F5FC" text-anchor="middle">
+    <text x="270" y="132">Python <tspan fill="#8426FF">96</tspan></text>
+    <text x="398" y="200" fill="#00D8F2">Swift 89</text>
+    <text x="396" y="322" fill="#00D8F2">Cloud 82</text>
+    <text x="270" y="385">React 75</text>
+    <text x="148" y="322" fill="#00D8F2">Bash 86</text>
+    <text x="138" y="194" fill="#00F273">DSA 100</text>
+  </g>
+
+  <!-- sweep beam -->
+  <g opacity="0.6">
+    <polygon points="270,255 270,142.5 220,150" fill="url(#sweepFade)" filter="url(#g3)">
+      <animateTransform attributeName="transform" type="rotate" from="0 270 255" to="360 270 255" dur="4s" repeatCount="indefinite"/>
+    </polygon>
+  </g>
+
+  <!-- ░ RIGHT READOUT PANEL ░ -->
+  <g font-family="monospace" font-size="13">
+    <rect x="540" y="95" width="324" height="290" rx="10" fill="#0a0220" fill-opacity="0.7" stroke="#8426FF" stroke-opacity="0.35"/>
+    <text x="560" y="126" fill="#C77DFF" font-size="14">▓ DRAGON SCAN — LIVE READOUT</text>
+    <line x1="560" y1="138" x2="844" y2="138" stroke="#8426FF" stroke-opacity="0.25"/>
+    <text x="560" y="168" fill="#F0F5FC">core_lang ........ <tspan fill="#8426FF">Python / ML</tspan></text>
+    <text x="560" y="192" fill="#F0F5FC">native ........... <tspan fill="#00D8F2">Swift / iOS</tspan></text>
+    <text x="560" y="216" fill="#F0F5FC">cloud ............ <tspan fill="#00F273">AWS / Docker</tspan></text>
+    <text x="560" y="240" fill="#F0F5FC">algorithms ....... <tspan fill="#00F273">100% ████</tspan></text>
+    <line x1="560" y1="258" x2="844" y2="258" stroke="#8426FF" stroke-opacity="0.25"/>
+    <text x="560" y="288" fill="#7A8AA3">projects_shipped . <tspan fill="#F0F5FC">10+</tspan></text>
+    <text x="560" y="312" fill="#7A8AA3">tests_passing .... <tspan fill="#F0F5FC">1000+</tspan></text>
+    <text x="560" y="336" fill="#7A8AA3">status ........... <tspan fill="#00F273">OPEN TO WORK</tspan></text>
+    <text x="560" y="368" fill="#7A8AA3" opacity="0">scan complete <tspan fill="#00F273">▮</tspan><animate attributeName="opacity" values="0;1;0.3;1;1" dur="2s" begin="1.5s" repeatCount="indefinite"/></text>
+  </g>
+
+  <rect x="1" y="1" width="898" height="438" rx="14" fill="none" stroke="#8426FF" stroke-opacity="0.35" stroke-width="1.5"/>
+</svg>

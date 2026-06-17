@@ -1,16 +1,9 @@
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║   FORGE OS · NIKAN EIDI                                      ║ -->
-<!-- ║   custom animated SVGs live in /assets — push them too       ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-
-<!-- ░░░░ HERO: animated pixel dragon over cyberpunk starry night ░░░░ -->
 <div align="center">
-  <img src="./assets/header.svg" width="100%" alt="Nikan Eidi — front-facing dragon with red eyes and frost breath over a cyberpunk starry night"/>
+  <img src="./assets/header.svg" width="100%" alt="Nikan Eidi — front-facing dragon with red eyes and frost breath"/>
 </div>
 
 <br/>
 
-<!-- ░░░░ LIVE SESSION TYPER ░░░░ -->
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2200&pause=600&color=00F273&center=true&width=740&lines=Establishing+secure+shell+to+nikaneidi%40github...;Forge+OS+online+%C2%B7+dragon+daemon+awake;10%2B+production+systems+%C2%B7+1000%2B+passing+tests;ML+research+%E2%86%92+production+%C2%B7+terminal-native+craft;Toronto%2C+CA+%C2%B7+UTC-5+%C2%B7+open+to+work)](https://git.io/typing-svg)
@@ -19,21 +12,11 @@
 
 <br/>
 
-<!-- ░░░░ ANIMATED SKILL RADAR ░░░░ -->
 <div align="center">
-  <img src="./assets/skills.svg" width="100%" alt="Animated dragon-scan skill radar with red-eye core"/>
+  <img src="./assets/skills.svg" width="100%" alt="Animated dragon-scan skill radar"/>
 </div>
 
 <br/>
-
-<!-- ░░░░ NEOFETCH IDENTITY ░░░░ -->
-<div align="center">
-
-```ansi
-[1;35mroot@nikan[0m:[1;36m~[0m$ neofetch --identity
-```
-
-</div>
 
 <table align="center">
 <tr>
@@ -81,18 +64,15 @@ mantra    = ["architecture > complexity",
 
 <br/>
 
-<!-- ░░░░ TECH ARSENAL ░░░░ -->
 <div align="center">
-
-```ansi
-[1;35mroot@nikan[0m:[1;36m~[0m$ ls -la ~/arsenal
-```
-
-<br/>
 
 <img src="https://skillicons.dev/icons?i=py,swift,ts,java,bash,c,cpp,sql&perline=8&theme=dark"/>
 
+<br/><br/>
+
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,aws,docker,kubernetes,githubactions,react,flask&perline=8&theme=dark"/>
+
+<br/><br/>
 
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,dynamodb,redis,supabase,xcode,vscode,linux&perline=8&theme=dark"/>
 
@@ -100,69 +80,51 @@ mantra    = ["architecture > complexity",
 
 <br/>
 
-<!-- ░░░░ ECOSYSTEM MAP (native mermaid) ░░░░ -->
-<div align="center">
-
-```ansi
-[1;35mroot@nikan[0m:[1;36m~[0m$ ./map --ecosystem
-```
-
-</div>
-
 ```mermaid
 %%{init: {'theme':'base','themeVariables':{'primaryColor':'#0d0226','primaryTextColor':'#F0F5FC','primaryBorderColor':'#8426FF','lineColor':'#00D8F2','fontFamily':'monospace'}}}%%
 flowchart TB
-    CORE(("⬡ NIKAN<br/>EIDI"))
+    CORE(("⬡ NIKAN\nEIDI"))
 
     CORE --> NATIVE["📱 NATIVE & SYSTEMS"]
     CORE --> ML["🧠 ML / AI"]
     CORE --> CLOUD["☁️ CLOUD & FULLSTACK"]
     CORE --> TOOLS["⚙️ DEV TOOLS"]
 
-    NATIVE --> HC["HC — Forge Dragon Terminal<br/>SwiftUI · Voice NLP · Vision"]
-    NATIVE --> VN["VisionNotebook<br/>SwiftUI · AppKit · Spatial UI"]
+    NATIVE --> HC["HC — Forge Dragon Terminal\nSwiftUI · Voice NLP · Vision"]
+    NATIVE --> VN["VisionNotebook\nSwiftUI · AppKit · Spatial UI"]
 
-    ML --> SN["StarryNote<br/>MLX · Gemma 3 · 382 tests"]
-    ML --> DC["DeepCIFAR<br/>ResNet18 · 96% acc"]
-    ML --> AU["Aurora Kraken<br/>asyncio · OSINT · Gemma 2"]
+    ML --> SN["StarryNote\nMLX · Gemma 3 · 382 tests"]
+    ML --> DC["DeepCIFAR\nResNet18 · 96% acc"]
+    ML --> AU["Aurora Kraken\nasyncio · OSINT · Gemma 2"]
 
-    CLOUD --> FR["Fragments<br/>Node · AWS · CI/CD"]
-    CLOUD --> CV["CineVision<br/>React · Flask · TF-IDF"]
+    CLOUD --> FR["Fragments\nNode · AWS · CI/CD"]
+    CLOUD --> CV["CineVision\nReact · Flask · TF-IDF"]
 
-    TOOLS --> AX["AX<br/>Bash · GPT-4o · 16fps TUI"]
-    TOOLS --> GS["Git-Sync<br/>pure Bash · ANSI UI"]
-    TOOLS --> GV["GitVisionCLI<br/>Multi-model AI IDE"]
+    TOOLS --> AX["AX\nBash · GPT-4o · 16fps TUI"]
+    TOOLS --> GS["Git-Sync\npure Bash · ANSI UI"]
+    TOOLS --> GV["GitVisionCLI\nMulti-model AI IDE"]
 
-    classDef core fill:#8426FF,stroke:#00F273,stroke-width:3px,color:#fff;
-    classDef cat fill:#0d0226,stroke:#00D8F2,stroke-width:2px,color:#00D8F2;
-    classDef proj fill:#020204,stroke:#8426FF,stroke-width:1px,color:#F0F5FC;
-    class CORE core;
-    class NATIVE,ML,CLOUD,TOOLS cat;
-    class HC,VN,SN,DC,AU,FR,CV,AX,GS,GV proj;
+    classDef core fill:#8426FF,stroke:#00F273,stroke-width:3px,color:#fff
+    classDef cat fill:#0d0226,stroke:#00D8F2,stroke-width:2px,color:#00D8F2
+    classDef proj fill:#020204,stroke:#8426FF,stroke-width:1px,color:#F0F5FC
+    class CORE core
+    class NATIVE,ML,CLOUD,TOOLS cat
+    class HC,VN,SN,DC,AU,FR,CV,AX,GS,GV proj
 ```
-
-<br/>
-
-<!-- ░░░░ FEATURED PROJECTS ░░░░ -->
-<div align="center">
-
-```ansi
-[1;35mroot@nikan[0m:[1;36m~[0m$ git log --oneline --graph --decorate --all
-```
-
-</div>
 
 <br/>
 
 <!-- HC -->
+
 <table align="center">
 <tr>
 <td width="64%" valign="top">
 
 ### `⬡` HC — Midnight Forge Dragon Terminal
+
 **`iPadOS` `SwiftUI` `MVVM` `NLP` `Vision Framework`**
 
-Cyberpunk work-hour tracker on the Forge design system. Continuous voice command engine (Apple Speech + NaturalLanguage), front-camera hand-gesture control with a One-Euro filter, and an ANSI dragon terminal rendered per-character.
+Cyberpunk work-hour tracker on the Forge design system. Continuous voice command engine (Apple Speech + NaturalLanguage), front-camera hand-gesture control with One-Euro filter, and an ANSI dragon terminal rendered per-character.
 
 </td>
 <td width="36%" valign="top">
@@ -183,9 +145,10 @@ root@hc:~$ _
 </tr>
 </table>
 
----
+-----
 
 <!-- STARRYNOTE -->
+
 <table align="center">
 <tr>
 <td width="36%" valign="top">
@@ -204,6 +167,7 @@ tests    382 / 382
 <td width="64%" valign="top">
 
 ### `⬡` StarryNote — Knowledge Architect
+
 **`Python` `MLX` `Gemma 3` `Apple Silicon` `Rich TUI`**
 
 Local-first AI study engine. Feeds any file — PDF, image, code, notes — through Gemma 3 on Metal GPU and synthesizes a 10-section study guide with original proofs, Mermaid diagrams, and exam questions. Triple-layer post-processor. 100% test pass rate.
@@ -212,14 +176,16 @@ Local-first AI study engine. Feeds any file — PDF, image, code, notes — thro
 </tr>
 </table>
 
----
+-----
 
 <!-- AURORA -->
+
 <table align="center">
 <tr>
 <td width="64%" valign="top">
 
 ### `⬡` Aurora Marine — The Kraken Engine
+
 **`Python` `asyncio` `Gemma 2` `OSINT` `Metal GPU`**
 
 AI-driven intelligence pipeline. 12-layer identity resolution across 15+ concurrent async leads, speculative TLD probing, and a local AI Surgeon (Gemma 2-2B) that reads non-standard DOMs when regex fails. 150+ cached leads/sec.
@@ -242,9 +208,10 @@ status: FORTIFIED
 </tr>
 </table>
 
----
+-----
 
 <!-- AX -->
+
 <table align="center">
 <tr>
 <td width="36%" valign="top">
@@ -263,6 +230,7 @@ IDLE → SCANNING → BUILDING
 <td width="64%" valign="top">
 
 ### `⬡` AX — Cybernetic Workflow Architect
+
 **`Bash` `GPT-4o` `OpenAI API` `ANSI` `TUI`**
 
 Single-file Bash utility that fingerprints your stack and dispatches to GPT-4o for a production CI workflow — while a 16fps Cybernetic Eye animates in terminal via pure `tput`. Ghost-dependency isolation prevents phantom build steps.
@@ -271,14 +239,16 @@ Single-file Bash utility that fingerprints your stack and dispatches to GPT-4o f
 </tr>
 </table>
 
----
+-----
 
 <!-- CINEVISION -->
+
 <table align="center">
 <tr>
 <td width="64%" valign="top">
 
 ### `⬡` CineVision — AI Movie Tracker
+
 **`React 19` `Flask` `Supabase` `scikit-learn` `TMDB`**
 
 Full-stack tracker with a TF-IDF cosine-similarity engine over 10,000+ titles. Liquid Glass UI, Coverflow search, episode-level progress, and real-time watchlist-driven recommendations.
@@ -300,9 +270,10 @@ POST /recommend
 </tr>
 </table>
 
----
+-----
 
 <!-- DEEPCIFAR -->
+
 <table align="center">
 <tr>
 <td width="36%" valign="top">
@@ -322,6 +293,7 @@ airplane   2.98%
 <td width="64%" valign="top">
 
 ### `⬡` DeepCIFAR — Image Classification
+
 **`PyTorch` `ResNet18` `MPS` `Transfer Learning`**
 
 End-to-end CIFAR-10 classifier. Transfer learning with pretrained ResNet18 fine-tuned on Apple Silicon, AdamW + CosineAnnealingLR, full inference CLI. 96.02% test accuracy in 6 epochs.
@@ -332,17 +304,11 @@ End-to-end CIFAR-10 classifier. Transfer learning with pretrained ResNet18 fine-
 
 <br/>
 
-<!-- ░░░░ GITHUB TELEMETRY ░░░░ -->
 <div align="center">
 
-```ansi
-[1;35mroot@nikan[0m:[1;36m~[0m$ ./stats --render --all
-```
-
-<br/>
-
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=NikanEidi&show_icons=true&hide_border=false&border_color=8426FF&title_color=8426FF&icon_color=00D8F2&text_color=F0F5FC&ring_color=00F273&bg_color=0d0226&include_all_commits=true&count_private=true"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=NikanEidi&theme=dark&hide_border=false&border=8426FF&background=0d0226&ring=00F273&fire=00D8F2&currStreakLabel=8426FF&sideLabels=F0F5FC&dates=7A8AA3&currStreakNum=F0F5FC&sideNums=F0F5FC"/>
+&nbsp;
+<img height="165" src="https://streak-stats.demolab.com/?user=NikanEidi&theme=dark&hide_border=false&border=8426FF&background=0d0226&ring=00F273&fire=00D8F2&currStreakLabel=8426FF&sideLabels=F0F5FC&dates=7A8AA3&currStreakNum=F0F5FC&sideNums=F0F5FC"/>
 
 <br/><br/>
 
@@ -354,20 +320,21 @@ End-to-end CIFAR-10 classifier. Transfer learning with pretrained ResNet18 fine-
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=NikanEidi&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8&title_color=8426FF&text_color=00D8F2"/>
+<img src="https://github-profile-trophy.vercel.app/?username=NikanEidi&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8"/>
+
+<br/><br/>
+
+<!-- Holopin badges -->
+
+<a href="https://holopin.io/@nikaneidi">
+  <img src="https://holopin.me/nikaneidi" alt="Nikan's Holopin board" width="100%"/>
+</a>
 
 </div>
 
 <br/>
 
-<!-- ░░░░ CONNECT ░░░░ -->
 <div align="center">
-
-```ansi
-[1;35mroot@nikan[0m:[1;36m~[0m$ ./connect --handshake
-```
-
-<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0226?style=for-the-badge&logo=linkedin&logoColor=8426FF&labelColor=020204)](https://www.linkedin.com/in/nikan-eidi-03476232b/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0d0226?style=for-the-badge&logo=firefoxbrowser&logoColor=00D8F2&labelColor=020204)](https://nikanvision.dev)
@@ -377,9 +344,9 @@ End-to-end CIFAR-10 classifier. Transfer learning with pretrained ResNet18 fine-
 <br/>
 
 ![Views](https://komarev.com/ghpvc/?username=NikanEidi&label=PROFILE+VIEWS&color=8426FF&style=flat-square)
-&nbsp;
+ 
 ![Followers](https://img.shields.io/github/followers/NikanEidi?label=FOLLOWERS&style=flat-square&color=00D8F2&labelColor=020204)
-&nbsp;
+ 
 ![Stars](https://img.shields.io/github/stars/NikanEidi?label=STARS&style=flat-square&color=00F273&labelColor=020204)
 
 <br/>
@@ -394,5 +361,4 @@ End-to-end CIFAR-10 classifier. Transfer learning with pretrained ResNet18 fine-
 
 </div>
 
-<!-- ░░░░ FOOTER ░░░░ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:020204,50:1a0533,100:020204&section=footer&reversal=true" width="100%"/>

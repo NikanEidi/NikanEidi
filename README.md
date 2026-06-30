@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/header.svg" width="100%" alt="Nikan Eidi — front-facing dragon with red eyes and frost breath"/>
+  <img src="./assets/headers.svg" width="100%" alt="Nikan Eidi — front-facing dragon with red eyes and frost breath"/>
 </div>
 
 <br/>
@@ -13,7 +13,7 @@
 <br/>
 
 <div align="center">
-  <img src="./assets/skill.svg" width="100%" alt="Animated dragon-scan skill radar"/>
+  <img src="./assets/skills.svg" width="100%" alt="Animated dragon-scan skill radar"/>
 </div>
 
 <br/>

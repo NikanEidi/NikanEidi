@@ -304,26 +304,10 @@ End-to-end CIFAR-10 classifier. Transfer learning with pretrained ResNet18 fine-
 
 <br/>
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=NikanEidi&show_icons=true&hide_border=false&border_color=8426FF&title_color=8426FF&icon_color=00D8F2&text_color=F0F5FC&ring_color=00F273&bg_color=0d0226&include_all_commits=true&count_private=true"/>
-&nbsp;
-<img height="165" src="https://streak-stats.demolab.com/?user=NikanEidi&theme=dark&hide_border=false&border=8426FF&background=0d0226&ring=00F273&fire=00D8F2&currStreakLabel=8426FF&sideLabels=F0F5FC&dates=7A8AA3&currStreakNum=F0F5FC&sideNums=F0F5FC"/>
-
-<br/><br/>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=NikanEidi&bg_color=0d0226&color=8426FF&line=00D8F2&point=00F273&area=true&hide_border=false&area_color=1a0533&border_color=8426FF&radius=4&height=200&custom_title=Contribution%20Telemetry"/>
 
 <br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikanEidi&layout=compact&hide_border=false&border_color=8426FF&title_color=8426FF&text_color=F0F5FC&bg_color=0d0226&langs_count=8"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=NikanEidi&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8"/>
-
-<br/><br/>
-
 <!-- Holopin badges -->
 
 <a href="https://holopin.io/@nikaneidi">

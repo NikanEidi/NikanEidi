@@ -13,7 +13,7 @@
 <br/>
 
 <div align="center">
-  <img src="./assets/skills.svg" width="100%" alt="Animated dragon-scan skill radar"/>
+  <img src="./assets/skill.svg" width="100%" alt="Animated dragon-scan skill radar"/>
 </div>
 
 <br/>

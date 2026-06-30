@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/headers.svg" width="100%" alt="Nikan Eidi — front-facing dragon with red eyes and frost breath"/>
+  <img src="./assets/header.svg" width="100%" alt="Nikan Eidi — front-facing dragon"/>
 </div>
 
 <br/>

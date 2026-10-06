@@ -305,9 +305,6 @@ End-to-end CIFAR-10 classifier. Transfer learning with pretrained ResNet18 fine-
 <br/>
 
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=NikanEidi&bg_color=0d0226&color=8426FF&line=00D8F2&point=00F273&area=true&hide_border=false&area_color=1a0533&border_color=8426FF&radius=4&height=200&custom_title=Contribution%20Telemetry"/>
-
-<br/>
 <!-- Holopin badges -->
 
 <a href="https://holopin.io/@nikaneidi">
